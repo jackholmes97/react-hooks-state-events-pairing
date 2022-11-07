@@ -7,6 +7,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.hidden {
+  display: none;
+}
+
+
 .App {
   text-align: center;
 }
